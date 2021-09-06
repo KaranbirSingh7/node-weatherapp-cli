@@ -9,7 +9,7 @@
   "author": "Karanbir",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.17.0",
+    "axios": "^0.21.3",
     "request": "^2.83.0",
     "yargs": "^9.0.1"
   }
